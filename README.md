@@ -1,4 +1,5 @@
-!logo(https://github.com/DEV-AMANOPPS/DEV-AMANOPPS/blob/main/devops%20photo.webp)
+<img src="https://github.com/DEV-AMANOPPS/DEV-AMANOPPS/raw/main/devops%20photo.webp" width="500%" height="230px"/>
+
 <h1 align="center">Hi 👋, I'm AMAN KUMAR CHAURASIA</h1>
 <h3 align="center">A PASSIONATE CLOUD AND DEVOPS ENGINNER</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
