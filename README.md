@@ -1,4 +1,4 @@
-
+!logo(https://ibagroupit.de/wp-content/uploads/2020/06/banner_1300-357_devops.png)
 <h1 align="center">Hi 👋, I'm AMAN KUMAR CHAURASIA</h1>
 <h3 align="center">A PASSIONATE CLOUD AND DEVOPS ENGINNER</h3>
 <img align="right" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
