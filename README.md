@@ -1,175 +1,702 @@
 <div align="center">
-  <img src="https://github.com/DEV-AMANOPPS/DEV-AMANOPPS/raw/main/devops%20photo.webp" alt="Header Banner" width="100%"/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Kumar%20Chaurasia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
+
+<img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="Aman Kumar Chaurasia" width="180" height="180" style="border-radius: 50%; border: 4px solid #3B82F6;"/>
+
+### Full-Stack Developer | MERN Stack Specialist
+### Building Scalable Web Applications with Modern Technologies
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express;PostgreSQL+%7C+MongoDB;Building+Production-Ready+Apps;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/aman-chaurasia-15215b220)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:chaurasiaaman709@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DEV-AMANOPPS)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](#)
+
+<img src="https://komarev.com/ghpvc/?username=dev-amanopps&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+
 </div>
-
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Aman+Kumar+Chaurasia;Full-Stack+Developer;Cloud+%26+DevOps+Engineer;Building+Scalable+Solutions" alt="Typing SVG" />
-</h1>
-
-<p align="center">
-  <em>Passionate Full-Stack Developer specializing in Cloud-Native Applications | MERN Stack | AWS | DevOps Enthusiast</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/aman-chaurasia-15215b220"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:chaurasiaaman709@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://github.com/DEV-AMANOPPS"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-```typescript
+```javascript
 const aman = {
+    name: "Aman Kumar Chaurasia",
     role: "Full-Stack Developer",
-    education: "B.Tech in Computer Science (Data Science) | ABES Engineering College",
-    location: "Ghaziabad, UP, India",
-    currentFocus: ["Full-Stack Development", "Cloud Architecture", "DevOps Automation"],
-    techStack: {
-        frontend: ["React", "Next.js", "JavaScript", "HTML5", "CSS3", "Tailwind"],
-        backend: ["Node.js", "Express.js", "RESTful APIs", "PostgreSQL"],
-        devOps: ["AWS", "Docker", "Kubernetes", "Jenkins", "CI/CD"],
-        tools: ["Git", "Linux", "Bash", "n8n"]
+    location: "Ghaziabad, Uttar Pradesh, India",
+    education: {
+        degree: "B.Tech in Computer Science (Data Science)",
+        college: "ABES Engineering College, Ghaziabad",
+        university: "AKTU",
+        cgpa: "7.66/10"
     },
-    learning: ["Microservices", "System Design", "AWS Solutions Architecture"],
-    goals: "Building production-ready, scalable full-stack applications"
+    currentWork: "Building EventHub & AnalyticsPro",
+    learning: ["TypeScript", "Next.js", "System Design", "Microservices"],
+    lookingFor: "Full-Stack Developer | Frontend | Backend Roles",
+    askMeAbout: ["React", "Node.js", "PostgreSQL", "REST APIs", "AWS"],
+    contact: "chaurasiaaman709@gmail.com"
 };
 ```
 
----
+<div align="center">
 
-## 💼 Featured Projects
+### 💡 *"Clean code always looks like it was written by someone who cares"*
 
-### 🎯 [EventHub](https://github.com/DEV-AMANOPPS/eventhub) - Full-Stack Event Booking Platform
-**Tech Stack:** React | Node.js | Express | PostgreSQL | JWT | Razorpay Integration  
-- Built secure authentication system with **Two-Factor OTP** and **Role-Based Access Control (RBAC)**
-- Integrated **Razorpay payment gateway** for seamless transactions
-- Implemented RESTful APIs with JWT token-based authentication
-- Designed responsive UI with real-time event availability updates
-
-### 📊 [AnalyticsPro](https://github.com/DEV-AMANOPPS/analyticspro) - Real-Time Analytics Dashboard
-**Tech Stack:** React | Vite | Tailwind CSS | Recharts | Framer Motion | Codeforces API  
-- Developed interactive dashboard displaying **real-time competitive programming analytics**
-- Implemented data visualization with charts: rating history, difficulty distribution, activity heatmaps
-- Optimized performance with React hooks and efficient state management
-- Created responsive design with smooth animations using Framer Motion
-
-### 🤖 [HireFlow AI](https://github.com/DEV-AMANOPPS/hireflow-ai) - AI-Powered Recruitment Platform
-**Tech Stack:** React | Express.js | n8n | Supabase (PostgreSQL) | PDF Processing  
-- Built autonomous recruitment agent with **AI-powered resume parsing**
-- Orchestrated complex workflows using **n8n automation**
-- Implemented full-stack architecture with RESTful APIs and database design
-- Featured in **Capgemini AgentifAI Buildathon**
-
-### 🌐 Three-Tier Application on AWS *(In Progress)*
-**Tech Stack:** React | Node.js | PostgreSQL | Docker | AWS (EC2, RDS, S3, ALB)  
-- Designing scalable three-tier architecture on AWS cloud infrastructure
-- Implementing containerization with Docker for consistent deployments
-- Setting up CI/CD pipelines with Jenkins for automated deployments
+</div>
 
 ---
 
 ## 🛠️ Technical Skills
 
+<div align="center">
+
+### 🎨 Frontend Development
+
 <table>
-  <tr>
-    <td align="center" width="50%">
-      
-### Frontend Development
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" alt="React"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white" alt="Tailwind"/>
-</p>
-
-### Backend Development
-<p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
-</p>
-
-    </td>
-    <td align="center" width="50%">
-
-### Cloud & DevOps
-<p>
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker"/>
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" alt="Jenkins"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux"/>
-</p>
-
-### Programming Languages
-<p>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black" alt="C"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" alt="Bash"/>
-</p>
-
-    </td>
-  </tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+<br>React
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
+<br>Next.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
+<br>HTML5
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3" />
+<br>CSS3
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
+<br>Tailwind
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux" />
+<br>Redux
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
+<br>Bootstrap
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+<br>Sass
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
+<br>Material UI
+</td>
+<td align="center" width="96">
+<img src="https://www.svgrepo.com/show/374002/recharts.svg" width="48" height="48" alt="Recharts" />
+<br>Recharts
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/framer-motion.svg" width="48" height="48" alt="Framer" />
+<br>Framer Motion
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="48" height="48" alt="Figma" />
+<br>Figma
+</td>
+<td align="center" width="96">
+<img src="https://vitejs.dev/logo.svg" width="48" height="48" alt="Vite" />
+<br>Vite
+</td>
+</tr>
 </table>
 
+### ⚙️ Backend Development
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+<br>Node.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=express" width="48" height="48" alt="Express" />
+<br>Express.js
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI" />
+<br>FastAPI
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" width="48" height="48" alt="Socket.io" />
+<br>Socket.io
+</td>
+<td align="center" width="96">
+<img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="REST API" />
+<br>REST API
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
+<br>GraphQL
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
+<br>JWT
+</td>
+</tr>
+</table>
+
+### 🗄️ Database & Storage
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
+<br>PostgreSQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+<br>MongoDB
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" />
+<br>MySQL
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
+<br>Redis
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
+<br>Supabase
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
+<br>Firebase
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
+<br>SQLite
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS S3" />
+<br>AWS S3
+</td>
+</tr>
+</table>
+
+### ☁️ Cloud & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br>AWS
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br>Docker
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br>Kubernetes
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
+<br>Jenkins
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
+<br>Nginx
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
+<br>Vercel
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=netlify" width="48" height="48" alt="Netlify" />
+<br>Netlify
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" width="48" height="48" alt="GitHub Actions" />
+<br>GitHub Actions
+</td>
+</tr>
+</table>
+
+### 🔧 Tools & Platforms
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+<br>GitHub
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman" />
+<br>Postman
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=npm" width="48" height="48" alt="npm" />
+<br>npm
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br>Linux
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
+<br>Jira
+</td>
+</tr>
+</table>
+
+### 💻 Programming Languages
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+<br>JavaScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
+<br>TypeScript
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++" />
+<br>C++
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C" />
+<br>C
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+<br>Java
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br>Bash
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sql" width="48" height="48" alt="SQL" />
+<br>SQL
+</td>
+</tr>
+</table>
+
+### 🎯 Additional Skills
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
+<br>Webpack
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
+<br>Babel
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
+<br>Jest
+</td>
+<td align="center" width="96">
+<img src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fskill_page%2Fcontent%2Flogo_file%2Flogo%2F1106050%2Fn8n-2019-symbol-05d33fe4c9._360x360_051224.png" width="48" height="48" alt="n8n" />
+<br>n8n
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+<br>API Testing
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=notion" width="48" height="48" alt="Notion" />
+<br>Notion
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
+<br>Jupyter
+</td>
+<td align="center" width="96">
+<img src="https://www.vectorlogo.zone/logos/razorpay/razorpay-icon.svg" width="48" height="48" alt="Razorpay" />
+<br>Razorpay
+</td>
+</tr>
+</table>
+
+</div>
+
 ---
 
-## 📈 GitHub Statistics
+## 🚀 Featured Projects
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🎫 EventHub
+**Full-Stack Event Booking Platform**
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dev-amanopps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amanopps&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white" />
 </p>
 
+**🎯 Key Features:**
+- ✅ Two-Factor Authentication (2FA) with OTP
+- 🔐 Role-Based Access Control (Admin/Organizer/User)
+- 💳 Razorpay Payment Gateway Integration
+- 📊 Real-time Event Analytics Dashboard
+- 🎨 Fully Responsive Design
+
+**💡 Technical Highlights:**
+- Built RESTful APIs with Express.js
+- JWT Token-based Authentication
+- Normalized PostgreSQL Database
+- React Hooks & Context API
+- Input Validation Middleware
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amanopps&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+  <a href="#"><img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
 </p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 AnalyticsPro
+**Real-Time Codeforces Analytics Dashboard**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Recharts-FF6384?style=flat-square" />
+</p>
+
+**🎯 Key Features:**
+- 📈 Interactive Data Visualization
+- 🎯 Topic-wise Problem Breakdown
+- 📅 Activity Heatmap Calendar
+- ⚡ Performance Optimizations
+- 🎨 Smooth Framer Motion Animations
+
+**💡 Technical Highlights:**
+- Third-party API Integration (Codeforces)
+- React.memo & Lazy Loading
+- Tailwind CSS v4 Styling
+- Chart.js & Recharts Library
+- Responsive Mobile-First Design
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🤖 HireFlow AI
+**AI-Powered Recruitment Platform**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square" />
+</p>
+
+**🎯 Key Features:**
+- 🧠 AI-Powered Resume Parsing
+- 📄 Automated PDF Data Extraction
+- 🔄 Workflow Automation with n8n
+- 🗄️ Supabase PostgreSQL Backend
+- 📧 Email Notification System
+
+**💡 Technical Highlights:**
+- Full-Stack CRUD Architecture
+- PDF.js Integration for Parsing
+- Real-time Supabase Subscriptions
+- RESTful API Design
+- **🏆 Capgemini AgentifAI Buildathon**
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+<td width="50%" valign="top">
+
+### 📋 Placement Preparation Portal
+**Interactive Study & Progress Tracker**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
+</p>
+
+**🎯 Key Features:**
+- 📚 Comprehensive DSA & CS Resources
+- ✅ Interactive Progress Checklist
+- 📅 12-Week Structured Roadmap
+- 💾 Real-time Cross-Device Sync
+- 📊 CSV Export for Analytics
+
+**💡 Technical Highlights:**
+- Supabase Authentication System
+- Real-time Database Subscriptions
+- User-Specific Data Storage
+- Responsive UI for All Devices
+- localStorage Fallback Option
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/View_Project-4CAF50?style=for-the-badge" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github" /></a>
+</p>
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 🎓 Certifications & Achievements
+## 📊 GitHub Statistics
 
-- 🏆 **Capgemini AgentifAI Buildathon** - HireFlow AI Project
-- ☁️ **AWS Cloud Practitioner** (In Progress)
-- 🔧 **DevOps & Automation** Certifications
-- 💻 **Competitive Programming** - Active on Codeforces
+<div align="center">
 
----
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dev-amanopps&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-amanopps&theme=tokyonight&hide_border=true" />
 
-## 🌱 Current Focus
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dev-amanopps&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" />
+<img height="180em" src="https://github-readme-activity-graph.vercel.app/graph?username=dev-amanopps&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Graph" />
 
-- 🔨 Building production-grade full-stack applications with **React + Node.js**
-- ☁️ Deploying cloud-native applications on **AWS**
-- 📚 Learning **System Design** and **Microservices Architecture**
-- 🚀 Exploring **Next.js** and **TypeScript** for modern web development
+</div>
 
 ---
 
-## 📫 Let's Connect!
+## 🏆 Achievements & Certifications
 
-I'm actively seeking **Full-Stack Development** opportunities where I can contribute to building scalable, user-centric applications. Open to roles in:
+<div align="center">
 
-- Full-Stack Development (MERN/PERN Stack)
-- Frontend Development (React, Next.js)
-- Backend Development (Node.js, Express)
-- Cloud & DevOps Engineering
+<table>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🏆_Buildathon-Winner-FFD700?style=for-the-badge" />
+<br><br>
+<b>Capgemini AgentifAI Buildathon</b>
+<br>
+<sub>Built HireFlow AI - AI-powered recruitment platform</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/☁️_AWS-Certified-FF9900?style=for-the-badge" />
+<br><br>
+<b>AWS Cloud Computing</b>
+<br>
+<sub>Cloud deployment and architecture expertise</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/⚡_Competitive-Programming-1F8ACB?style=for-the-badge" />
+<br><br>
+<b>Codeforces & LeetCode</b>
+<br>
+<sub>Active problem solver in C++</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🎓_B.Tech-7.66_CGPA-4CAF50?style=for-the-badge" />
+<br><br>
+<b>Computer Science (Data Science)</b>
+<br>
+<sub>ABES Engineering College, AKTU</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🔧_Automation-Expert-EA4B71?style=for-the-badge" />
+<br><br>
+<b>n8n Workflow Automation</b>
+<br>
+<sub>Process automation and orchestration</sub>
+</td>
+<td align="center" width="33%">
+<img src="https://img.shields.io/badge/🚀_Full--Stack-Developer-3B82F6?style=for-the-badge" />
+<br><br>
+<b>MERN Stack Specialist</b>
+<br>
+<sub>Production-ready applications</sub>
+</td>
+</tr>
+</table>
 
-<p align="center">
-  <strong>📧 Email:</strong> <a href="mailto:chaurasiaaman709@gmail.com">chaurasiaaman709@gmail.com</a><br>
-  <strong>💼 LinkedIn:</strong> <a href="https://linkedin.com/in/aman-chaurasia-15215b220">Aman Chaurasia</a><br>
-  <strong>🌐 Portfolio:</strong> Coming Soon
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dev-amanopps&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
+## 💼 Currently
 
-<p align="center">
-  <em>"Code is like humor. When you have to explain it, it's bad." – Cory House</em>
-</p>
+<div align="center">
+
+```javascript
+{
+    status: "🎯 Open to Full-Stack Development Opportunities",
+    
+    learning: [
+        "TypeScript for type-safe development",
+        "Next.js for server-side rendering",
+        "System Design & Architecture",
+        "Microservices patterns"
+    ],
+    
+    workingOn: [
+        "Enhancing EventHub with new features",
+        "Building personal portfolio website",
+        "Contributing to open-source projects",
+        "Writing technical blog posts"
+    ],
+    
+    lookingFor: [
+        "Full-Stack Developer (MERN/PERN)",
+        "Frontend Developer (React/Next.js)",
+        "Backend Developer (Node.js/Express)",
+        "SaaS Product Development"
+    ],
+    
+    interests: [
+        "Web Development",
+        "Cloud Computing (AWS)",
+        "Problem Solving (DSA)",
+        "Building Scalable Products"
+    ]
+}
+```
+
+</div>
+
+---
+
+## 📫 Let's Connect & Collaborate
+
+<div align="center">
+
+### 💬 I'm always open to interesting conversations and collaboration opportunities!
+
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="mailto:chaurasiaaman709@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<br><br>
+<b>📧 Email Me</b>
+<br>
+<sub>chaurasiaaman709@gmail.com</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/aman-chaurasia-15215b220">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+<br><br>
+<b>💼 Let's Connect</b>
+<br>
+<sub>Professional Network</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://github.com/DEV-AMANOPPS">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+<br><br>
+<b>👨‍💻 Follow Me</b>
+<br>
+<sub>Check out my projects</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
+<br><br>
+<b>🌐 Portfolio</b>
+<br>
+<sub>Coming Soon!</sub>
+</a>
+</td>
+</tr>
+</table>
+
+<br>
+
+### 🌟 Available For:
+
+**✅ Full-time Positions** • **✅ Internships** • **✅ Freelance Projects** • **✅ Open Source Collaborations**
+
+<br>
+
+### 📍 Based in Ghaziabad, UP, India • Open to Remote & Hybrid Opportunities
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Developer Philosophy
+
+*"First, solve the problem. Then, write the code."* – John Johnson
+
+<br>
+
+### ⭐ If you find my work interesting, consider giving my projects a star!
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+
+**Made with ❤️ by Aman Kumar Chaurasia**
+
+</div>
