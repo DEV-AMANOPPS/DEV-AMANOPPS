@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aman%20Kumar%20Chaurasia&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32" />
 
-<img src="https://github.com/DEV-AMANOPPS/DEV-AMANOPPS/blob/main/assests/ChatGPT%20Image%20May%2020%2C%202026%2C%2002_05_52%20PM.png" width="400" height="300" style="border-radius: 50%; border: 4px solid #3B82F6;"/>
+<img src="https://github.com/DEV-AMANOPPS/DEV-AMANOPPS/blob/main/assests/ChatGPT%20Image%20May%2020%2C%202026%2C%2002_05_52%20PM.png" width="400" height="400" style="border-radius: 50%; border: 4px solid #3B82F6;"/>
 
 ### Full-Stack Developer | MERN Stack Devloper
 ### Building Scalable Web Applications with Modern Technologies
