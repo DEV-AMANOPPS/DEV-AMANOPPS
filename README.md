@@ -4,7 +4,7 @@
 
 <img src="https://avatars.githubusercontent.com/u/yourusername?v=4" alt="Aman Kumar Chaurasia" width="180" height="180" style="border-radius: 50%; border: 4px solid #3B82F6;"/>
 
-### Full-Stack Developer | MERN Stack Specialist
+### Full-Stack Developer | MERN Stack Devloper
 ### Building Scalable Web Applications with Modern Technologies
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;React+%7C+Node.js+%7C+Express;PostgreSQL+%7C+MongoDB;Building+Production-Ready+Apps;Open+to+Exciting+Opportunities!" alt="Typing SVG" />
@@ -63,18 +63,12 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
 <br>React
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js" />
-<br>Next.js
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5" />
 <br>HTML5
@@ -101,10 +95,7 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
 <br>Bootstrap
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
-<br>Sass
-</td>
+
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" width="48" height="48" alt="Material UI" />
 <br>Material UI
@@ -156,10 +147,7 @@ const aman = {
 <img src="https://user-images.githubusercontent.com/25181517/192107858-fe19f043-c502-4009-8c47-476fc89718ad.png" width="48" height="48" alt="REST API" />
 <br>REST API
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=graphql" width="48" height="48" alt="GraphQL" />
-<br>GraphQL
-</td>
+
 <td align="center" width="96">
 <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" width="48" height="48" alt="JWT" />
 <br>JWT
@@ -171,10 +159,7 @@ const aman = {
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=postgresql" width="48" height="48" alt="PostgreSQL" />
-<br>PostgreSQL
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
 <br>MongoDB
@@ -187,18 +172,12 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=redis" width="48" height="48" alt="Redis" />
 <br>Redis
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=supabase" width="48" height="48" alt="Supabase" />
-<br>Supabase
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" />
 <br>Firebase
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" />
-<br>SQLite
-</td>
+
 <td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS S3" />
 <br>AWS S3
@@ -218,18 +197,8 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
 <br>Docker
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
-<br>Kubernetes
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=jenkins" width="48" height="48" alt="Jenkins" />
-<br>Jenkins
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" />
-<br>Nginx
-</td>
+
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel" />
 <br>Vercel
@@ -277,10 +246,7 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
 <br>Bash
 </td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="48" height="48" alt="Jira" />
-<br>Jira
-</td>
+
 </tr>
 </table>
 
@@ -292,10 +258,7 @@ const aman = {
 <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
 <br>JavaScript
 </td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=typescript" width="48" height="48" alt="TypeScript" />
-<br>TypeScript
-</td>
+
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
 <br>Python
@@ -327,22 +290,9 @@ const aman = {
 
 <table>
 <tr>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg" width="48" height="48" alt="Webpack" />
-<br>Webpack
-</td>
-<td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=babel" width="48" height="48" alt="Babel" />
-<br>Babel
-</td>
-<td align="center" width="96">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" width="48" height="48" alt="Jest" />
-<br>Jest
-</td>
-<td align="center" width="96">
-<img src="https://assets.toptal.io/images?url=https%3A%2F%2Fbs-uploads.toptal.io%2Fblackfish-uploads%2Fcomponents%2Fskill_page%2Fcontent%2Flogo_file%2Flogo%2F1106050%2Fn8n-2019-symbol-05d33fe4c9._360x360_051224.png" width="48" height="48" alt="n8n" />
-<br>n8n
-</td>
+
+
+
 <td align="center" width="96">
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
 <br>API Testing
@@ -530,7 +480,7 @@ const aman = {
 <table>
 <tr>
 <td align="center" width="33%">
-<img src="https://img.shields.io/badge/🏆_Buildathon-Winner-FFD700?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🏆_Buildathon-FFD700?style=for-the-badge" />
 <br><br>
 <b>Capgemini AgentifAI Buildathon</b>
 <br>
